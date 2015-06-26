@@ -1,0 +1,7 @@
+name: elasticsearch-rails-env-var
+version: 1.0.0
+description: Sets env var for elasticsearch-rails according to service
+keywords:
+  - elasticsearch
+  - rails
+  - elasticsearch-rails
