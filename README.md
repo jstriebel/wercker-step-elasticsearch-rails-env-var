@@ -2,6 +2,8 @@
 
 This [wercker step](http://devcenter.wercker.com/docs/steps/index.html) sets ELASTICSEARCH_URL env var for [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails/).
 
+[![wercker status](https://app.wercker.com/status/f30c85958bff9c7c33d4e3e3b2f4cf2e/s/master "wercker status")](https://app.wercker.com/project/bykey/f30c85958bff9c7c33d4e3e3b2f4cf2e)
+
 ## Example
 
 ```yml
